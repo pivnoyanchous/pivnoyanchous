@@ -71,3 +71,11 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pivnoyanchous/pivnoyanchous/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+###
+
+<div align="center">
+  <a href="https://www.donationalerts.com/r/pivnoyanchous" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Поддержать_меня-DonationAlerts-F55D2C?style=for-the-badge&logo=wallet&logoColor=white" alt="Donation" />
+  </a>
+</div>
