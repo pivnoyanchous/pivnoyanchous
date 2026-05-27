@@ -76,6 +76,6 @@
 
 <div align="center">
   <a href="https://www.donationalerts.com/r/pivnoyanchous" target="_blank">
-    <img src="https://img.shields.io/badge/💖_Поддержать_разработчика-DonationAlerts-F55D2C?style=flat-square&logo=appveyor&logoColor=white" alt="DonationAlerts" height="30" />
+    <img src="./donate.svg" alt="Поддержать автора" height="60" />
   </a>
 </div>
