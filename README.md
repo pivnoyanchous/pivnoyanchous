@@ -76,6 +76,6 @@
 
 <div align="center">
   <a href="https://www.donationalerts.com/r/pivnoyanchous" target="_blank">
-    <img src="./donate.png" alt="Поддержать автора" height="60" />
+    <img src="./donate.png" alt="Поддержать автора" height="100" />
   </a>
 </div>
