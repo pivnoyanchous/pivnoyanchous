@@ -1,4 +1,4 @@
-<h1 align="center">🪽 Pivnoy Anchous | experienced developer </h1>
+<h1 align="center">🪽 Pivnoy Anchous | beginning developer </h1>
 
 ###
 
